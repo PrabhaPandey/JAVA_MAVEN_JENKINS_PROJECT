@@ -52,13 +52,7 @@
 					<webXml>src\main\webapp\WEB-INF\web.xml</webXml>
 				</configuration>
 			</plugin>
-			<plugin>
-			        <groupId>org.codehaus.mojo</groupId>
-			        <artifactId>maven-gpg-plugin</artifactId>
-			        <configuration>
-				        <skip>true</skip>
-			        </configuration>
-			</plugin>
+			
 
 		</plugins>
 	</build>
